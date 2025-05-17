@@ -15,7 +15,7 @@ projects = [
 
       technology:"bubble.io",
       project_cover:"assets/workplacecover.png",
-      my_role:"Design and Backend",
+      my_role:"Full Stack Development",
       github: 'https://github.com/your-repo/portfolio',
       live: 'https://your-portfolio.com'
     },
