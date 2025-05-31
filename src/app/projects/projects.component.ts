@@ -9,6 +9,16 @@ import { Component } from '@angular/core';
 })
 export class ProjectsComponent {
 projects = [
+   {
+      title: 'Tutorly – A Student-Tutor Matching Platform',
+      description: "Tutorly is a Bubble.io-based platform that connects students with tutors. It features tuition posting, tutor applications, chat, and profile management — all designed for a smooth student-tutor experience.",
+
+      technology:"bubble.io",
+      project_cover:"assets/tutorlycover.png",
+      my_role:"Full Stack Development",
+      github: 'https://github.com/your-repo/portfolio',
+      live: 'https://tutorly-71284.bubbleapps.io/version-test'
+    },
   {
       title: 'Workplace App (Bubble.io – Gregory John Course)                                   ',
       description: "A task and team management web app built using Bubble.io, featuring user authentication, project boards, real-time updates, and role-based access control",
